@@ -1,0 +1,304 @@
+# Copyright (C) 2022 heiblack
+# This file is distributed under the GPL 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: HB Request A Question For Woocommerce 0.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/hb-request-a-question-for-woocommerce\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-23T10:37:25+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: hb-request-a-question-for-woocommerce\n"
+
+#. Plugin Name of the plugin
+msgid "HB Request A Question For Woocommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://piglet.me/RequestQuestion"
+msgstr ""
+
+#. Description of the plugin
+msgid "A Request A Question Tiny For Woocommerce"
+msgstr ""
+
+#. Author of the plugin
+msgid "heiblack"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://piglet.me"
+msgstr ""
+
+#: hb-request-a-question-for-woocommerce.php:122
+msgid "RequestPrice"
+msgstr ""
+
+#: hb-request-a-question-for-woocommerce.php:141
+msgid "Question Record"
+msgstr ""
+
+#: hb-request-a-question-for-woocommerce.php:157
+#: page/hb-request-price-details.php:16
+msgid "invalid value!"
+msgstr ""
+
+#: page/hb-request-price-details.php:83
+#: page/hb-requestprice-page.php:85
+msgid "Product:"
+msgstr ""
+
+#: page/hb-request-price-details.php:87
+#: page/hb-requestprice-page.php:89
+msgid "Price:"
+msgstr ""
+
+#: page/hb-request-price-details.php:102
+#: page/hb-request-price-details.php:114
+#: page/hb-request-price-list-table.php:258
+#: page/hb-request-price-message-page.php:60
+#: page/hb-requestprice-page.php:99
+msgid "Name"
+msgstr ""
+
+#: page/hb-request-price-details.php:105
+#: page/hb-request-price-details.php:116
+#: page/hb-requestprice-page.php:101
+msgid "Contact Method"
+msgstr ""
+
+#: page/hb-request-price-details.php:108
+#: page/hb-request-price-details.php:118
+#: page/hb-request-price-list-table.php:259
+msgid "Message"
+msgstr ""
+
+#: page/hb-request-price-details.php:111
+msgid "Update"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:24
+#: page/hb-request-price-list-table.php:25
+msgid "HB Question"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:35
+msgid "Request"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:126
+msgid "NO Replied"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:129
+#: page/hb-request-price-list-table.php:174
+#: page/hb-request-price-message-page.php:74
+#: page/hb-request-price-message-page.php:134
+#: page/hb-request-price-message-page.php:138
+#: page/hb-request-price-message-page.php:142
+#: page/hb-request-price-table.php:67
+msgid "Replied"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:132
+#: page/hb-request-price-message-page.php:76
+#: page/hb-request-price-message-page.php:135
+#: page/hb-request-price-message-page.php:139
+#: page/hb-request-price-message-page.php:143
+#: page/hb-request-price-table.php:69
+msgid "Completed"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:173
+msgid "Done"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:175
+msgid "Delete"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:256
+msgid "ID"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:257
+msgid "Productid"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:260
+msgid "Connection"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:261
+msgid "Date"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:262
+#: page/hb-request-price-message-page.php:63
+msgid "Status"
+msgstr ""
+
+#: page/hb-request-price-list-table.php:263
+msgid "Actions"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:38
+msgid "←back"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:61
+msgid "User"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:62
+msgid "Product Id"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:64
+msgid "Reply Read"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:65
+msgid "Date Time"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:78
+#: page/hb-request-price-message-page.php:133
+#: page/hb-request-price-message-page.php:137
+#: page/hb-request-price-message-page.php:141
+#: page/hb-request-price-table.php:71
+msgid "Pending"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:91
+msgid "Unread"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:96
+msgid "Have Read"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:99
+msgid "-"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:110
+msgid "Connection:"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:112
+msgid "Message:"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:114
+msgid "Admin Reply:"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:115
+msgid "(Customer can see)"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:118
+msgid "Reply"
+msgstr ""
+
+#: page/hb-request-price-message-page.php:147
+msgid "(Only admin can read)"
+msgstr ""
+
+#: page/hb-request-price-table.php:1
+msgid "Record"
+msgstr ""
+
+#: page/hb-request-price-table.php:4
+msgid "NUMBER"
+msgstr ""
+
+#: page/hb-request-price-table.php:5
+msgid "PRODUCT"
+msgstr ""
+
+#: page/hb-request-price-table.php:6
+msgid "DATE"
+msgstr ""
+
+#: page/hb-request-price-table.php:7
+msgid "STATE"
+msgstr ""
+
+#: page/hb-request-price-table.php:8
+msgid "ACTIONS"
+msgstr ""
+
+#: page/hb-request-price-table.php:95
+#: page/hb-request-price-table.php:97
+msgid "View"
+msgstr ""
+
+#: page/hb-requestprice-page.php:103
+msgid "Remark"
+msgstr ""
+
+#: page/hb-requestprice-page.php:105
+msgid "Send"
+msgstr ""
+
+#: page/hb-settings.php:7
+msgid "HB Request"
+msgstr ""
+
+#: page/hb-settings.php:12
+msgid "General"
+msgstr ""
+
+#: page/hb-settings.php:33
+msgid "Setting"
+msgstr ""
+
+#: page/hb-settings.php:38
+msgid "Send automatically changes status to “Reply”"
+msgstr ""
+
+#: page/hb-settings.php:43
+msgid "Allow customer to update the contact form"
+msgstr ""
+
+#: page/hb-settings.php:49
+msgid "When the form status is complete,allow customers to update the contact form"
+msgstr ""
+
+#: page/hb-settings.php:58
+msgid "Notice"
+msgstr ""
+
+#: page/hb-settings.php:63
+msgid "LINE Notify(Recommend)"
+msgstr ""
+
+#: page/hb-settings.php:70
+msgid "LINE Notify Token"
+msgstr ""
+
+#: page/hb-settings.php:73
+msgid "WP Mail"
+msgstr ""
+
+#: page/hb-settings.php:79
+msgid "Mail Address"
+msgstr ""
+
+#: page/hb-settings.php:85
+msgid "Mail Title"
+msgstr ""
+
+#: page/hb-settings.php:92
+msgid "Content"
+msgstr ""
+
+#: page/hb-settings.php:98
+msgid "sss"
+msgstr ""
